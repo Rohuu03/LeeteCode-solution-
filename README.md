@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0443-string-compression) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
