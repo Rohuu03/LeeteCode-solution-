@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0152-maximum-product-subarray) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0680-valid-palindrome-ii) |
 ## Two Pointers
