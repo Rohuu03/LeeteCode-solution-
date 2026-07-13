@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0074-search-a-2d-matrix) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0151-reverse-words-in-a-string) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0075-sort-colors) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1552-magnetic-force-between-two-balls) |
