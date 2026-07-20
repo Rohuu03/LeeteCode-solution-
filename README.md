@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1314-matrix-block-sum) |
 | [2643-row-with-maximum-ones](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2643-row-with-maximum-ones) |
 ## Stack
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
