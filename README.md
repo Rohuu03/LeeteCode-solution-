@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0680-valid-palindrome-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0560-subarray-sum-equals-k) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
