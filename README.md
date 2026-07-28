@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0443-string-compression) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0523-continuous-subarray-sum) |
