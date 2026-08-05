@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0523-continuous-subarray-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0075-sort-colors) |
+| [0414-third-maximum-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1552-magnetic-force-between-two-balls) |
