@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1512-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1952-three-divisors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
@@ -254,4 +256,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1025-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
