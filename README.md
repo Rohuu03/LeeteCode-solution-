@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0713-subarray-product-less-than-k) |
+| [0812-largest-triangle-area](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0523-continuous-subarray-sum) |
+| [0812-largest-triangle-area](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0342-power-of-four) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
