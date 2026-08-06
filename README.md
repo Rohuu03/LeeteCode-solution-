@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1025-divisor-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sliding Window
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0523-continuous-subarray-sum) |
 | [0812-largest-triangle-area](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1025-divisor-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1025-divisor-game) |
 ## Database
 |  |
 | ------- |
@@ -237,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0812-largest-triangle-area) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
