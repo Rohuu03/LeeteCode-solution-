@@ -5,14 +5,12 @@ class Solution {
         int sum2 =0;
        for(int i=0;i<n;i++){
         sum+=nums[i];
+        while(nums[i]>0){
+            sum2+=nums[i]%10;
+            nums[i]/=10;
+        }
        } 
-       for(int i=0;i<n;i++){
-        int num= nums[i];
-        while(num>0){
-        sum2+=num%10;
-        num =num/10;
-       } 
-       }
+    
         return Math.abs(sum2-sum);
     }
 }
