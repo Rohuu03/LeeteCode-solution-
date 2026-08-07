@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1037-valid-boomerang](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1037-valid-boomerang) |
 | [1260-shift-2d-grid](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1331-rank-transform-of-an-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1037-valid-boomerang) |
 | [1486-xor-operation-in-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1952-three-divisors) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0812-largest-triangle-area) |
+| [1037-valid-boomerang](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1037-valid-boomerang) |
 ## Polygons
 |  |
 | ------- |
