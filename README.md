@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3908-valid-digit-number) |
+| [3945-digit-frequency-score](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1512-number-of-good-pairs) |
+| [3945-digit-frequency-score](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3945-digit-frequency-score) |
 ## Monotonic Stack
 |  |
 | ------- |
