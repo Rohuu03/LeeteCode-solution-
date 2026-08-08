@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3894-traffic-signal-color](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0680-valid-palindrome-ii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3536-maximum-product-of-two-digits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3894-traffic-signal-color) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1486-xor-operation-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Counting
 |  |
 | ------- |
