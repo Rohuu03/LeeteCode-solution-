@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2643-row-with-maximum-ones) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
