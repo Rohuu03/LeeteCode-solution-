@@ -1,7 +1,7 @@
 class Solution {
     public int[] decimalRepresentation(int n) {
       // sabse phele digit count kar le 
-      if (n == 0) return new int[]{0};
+     // if (n == 0) return new int[]{0};
       int temp = n ;
       int count =0;
        while (temp > 0) {
