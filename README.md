@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1037-valid-boomerang](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1037-valid-boomerang) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-shift-2d-grid](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1331-rank-transform-of-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0680-valid-palindrome-ii) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1037-valid-boomerang) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1486-xor-operation-in-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1952-three-divisors) |
