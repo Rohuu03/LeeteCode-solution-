@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3697-compute-decimal-representation](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3697-compute-decimal-representation) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1486-xor-operation-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Counting
 |  |
