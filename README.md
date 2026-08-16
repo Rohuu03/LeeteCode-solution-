@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2643-row-with-maximum-ones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1512-number-of-good-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3945-digit-frequency-score](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3945-digit-frequency-score) |
