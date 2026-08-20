@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2643-row-with-maximum-ones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3697-compute-decimal-representation](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3697-compute-decimal-representation) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3894-traffic-signal-color](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
