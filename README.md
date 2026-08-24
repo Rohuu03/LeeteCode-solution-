@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1486-xor-operation-in-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1512-number-of-good-pairs) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1952-three-divisors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1952-three-divisors) |
 | [2396-strictly-palindromic-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
