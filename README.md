@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3697-compute-decimal-representation](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3697-compute-decimal-representation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3945-digit-frequency-score) |
 ## Monotonic Stack
 |  |
