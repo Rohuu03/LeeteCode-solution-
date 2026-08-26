@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0410-split-array-largest-sum) |
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1952-three-divisors) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
