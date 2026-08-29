@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0881-boats-to-save-people) |
 | [0908-smallest-range-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0908-smallest-range-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0881-boats-to-save-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0881-boats-to-save-people) |
 | [2396-strictly-palindromic-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2396-strictly-palindromic-number) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sorting
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0414-third-maximum-number) |
+| [0881-boats-to-save-people](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1552-magnetic-force-between-two-balls) |
@@ -340,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0278-first-bad-version) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
