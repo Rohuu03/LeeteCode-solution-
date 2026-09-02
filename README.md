@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3945-digit-frequency-score) |
