@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0042-trapping-rain-water) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0075-sort-colors) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
