@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0713-subarray-product-less-than-k) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0374-guess-number-higher-or-lower) |
 ## Timsort
 |  |
 | ------- |
