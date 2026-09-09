@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0680-valid-palindrome-ii) |
+| [0925-long-pressed-name](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0923-3sum-with-multiplicity) |
+| [0925-long-pressed-name](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0925-long-pressed-name) |
 | [1537-get-the-maximum-score](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1537-get-the-maximum-score) |
 | [2396-strictly-palindromic-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2396-strictly-palindromic-number) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
