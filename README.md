@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1037-valid-boomerang](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1037-valid-boomerang) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-shift-2d-grid](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1314-matrix-block-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1025-divisor-game) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1537-get-the-maximum-score](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1537-get-the-maximum-score) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sliding Window
