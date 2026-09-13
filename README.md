@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0643-maximum-average-subarray-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0923-3sum-with-multiplicity) |
