@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1537-get-the-maximum-score) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1552-magnetic-force-between-two-balls) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Greedy
 |  |
 | ------- |
