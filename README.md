@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1314-matrix-block-sum) |
 | [2643-row-with-maximum-ones](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2643-row-with-maximum-ones) |
