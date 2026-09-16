@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0763-partition-labels) |
 | [0925-long-pressed-name](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0881-boats-to-save-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0923-3sum-with-multiplicity) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0923-3sum-with-multiplicity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0974-subarray-sums-divisible-by-k) |
