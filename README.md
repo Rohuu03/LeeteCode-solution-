@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0410-split-array-largest-sum) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0523-continuous-subarray-sum) |
@@ -438,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
