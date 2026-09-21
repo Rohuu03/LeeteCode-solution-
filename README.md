@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0342-power-of-four) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0060-permutation-sequence) |
 | [0342-power-of-four](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0342-power-of-four) |
 ## Geometry
 |  |
