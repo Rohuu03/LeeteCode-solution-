@@ -8,7 +8,7 @@ class Solution {
             for(int k =j+1;k<n;k++){
                 int sum = nums[i]+nums[j]+nums[k];
                 if (Math.abs(sum - target) < Math.abs(closest - target)) {
-                        closest = sum;
+                        closest = sum;// kon jyada pass h ye dekh rahe h 
               
             }
         }
