@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0410-split-array-largest-sum) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0374-guess-number-higher-or-lower) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0443-string-compression) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1486-xor-operation-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0287-find-the-duplicate-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -449,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0287-find-the-duplicate-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Counting Sort
