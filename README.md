@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0908-smallest-range-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0923-3sum-with-multiplicity](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0923-3sum-with-multiplicity) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0923-3sum-with-multiplicity) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1331-rank-transform-of-an-array) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Counting Sort
 |  |
