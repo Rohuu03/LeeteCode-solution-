@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0763-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1537-get-the-maximum-score](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1537-get-the-maximum-score) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Pigeonhole Principle
 |  |
 | ------- |
