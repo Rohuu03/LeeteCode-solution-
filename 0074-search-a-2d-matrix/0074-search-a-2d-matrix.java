@@ -7,8 +7,8 @@ class Solution {
         int e =n-1;
         while(s<=e){
             int mid = s+(e-s)/2;
-            int rowindex =mid/col;
-            int colindex =mid%col;
+            int rowindex =mid/col; //row index nikalne ke traeeka
+            int colindex =mid%col; // col index nikalne ka tareeka
             if(matrix[rowindex][colindex]==target){
             return true;
             }
