@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1095-find-in-mountain-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/3727-maximum-alternating-sum-of-squares) |
