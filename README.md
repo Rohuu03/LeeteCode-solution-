@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0032-longest-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0242-valid-anagram) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0678-valid-parenthesis-string) |
@@ -530,4 +532,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0131-palindrome-partitioning](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
